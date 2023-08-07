@@ -1,6 +1,6 @@
 const maxWidth = window.innerWidth - 150;
 const maxHeight = window.innerHeight - 150;
-const initialTime = 500;
+const initialTime = 2000;
 const gameOver = document.querySelector(".game-over");
 let time = initialTime;
 let scoreValue = 0;
